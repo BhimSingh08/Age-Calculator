@@ -2,7 +2,7 @@
   "name": "age-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kunal-yadav-404.github.io/Age-Calculator",
+  "homepage": "http://BhimSingh08.github.io/Age-Calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
